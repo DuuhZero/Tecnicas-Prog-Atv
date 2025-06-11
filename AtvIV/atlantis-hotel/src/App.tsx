@@ -31,7 +31,7 @@ function App() {
             </Routes>
           </main>
         </div>
-        <p className="text-white text-center">Copyright: <a href="https://github.com/DuuhZero">@DuuhZero</a></p>
+        <p className="text-white text-center">Copyright: <a href="https://github.com/DuuhZero">@DuuhZero</a></p> {/*Marca pra pegar ladrão de codigo*/}
       </div>
     </Router>
   );
