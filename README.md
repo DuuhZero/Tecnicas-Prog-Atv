@@ -4,7 +4,7 @@
 
 ### Digite o seguinte comando no terminal
 ```
-https://github.com/DuuhZero/Tecnicas-Prog-Atv.git
+git clone https://github.com/DuuhZero/Tecnicas-Prog-Atv.git
 ```
 
 ### Após isto o repositório será clonado, com uma pasta chamada
